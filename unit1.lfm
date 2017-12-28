@@ -1,0 +1,16 @@
+object Form1: TForm1
+  Left = 453
+  Height = 240
+  Top = 210
+  Width = 320
+  BorderStyle = bsNone
+  Caption = 'Form1'
+  Color = 592137
+  FormStyle = fsStayOnTop
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  OnShow = FormShow
+  LCLVersion = '1.6.0.4'
+  Visible = True
+  WindowState = wsFullScreen
+end
